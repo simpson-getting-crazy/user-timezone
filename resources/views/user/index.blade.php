@@ -13,12 +13,12 @@
                     <!-- This is an example component -->
                     <div class="max-w-2xl mx-auto">
 
-                        <div class="flex flex-col items-stretch">
+                        <div class="flex flex-col items-stretch w-full">
                             <div class="overflow-x-auto shadow-md sm:rounded-lg">
                                 <div class="inline-block min-w-full align-middle">
                                     <div class="overflow-hidden ">
                                         <table
-                                            class="w-full divide-y divide-gray-200 dark:divide-gray-700">
+                                            class="min-w-full divide-y divide-gray-200 table-fixed dark:divide-gray-700">
                                             <thead class="bg-gray-100 dark:bg-gray-700">
                                                 <tr>
                                                     <th scope="col" class="p-4">
